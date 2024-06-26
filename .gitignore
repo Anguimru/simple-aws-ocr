@@ -1,0 +1,5 @@
+*.zip
+*.png
+.git/
+node_modules/
+test_api_personal.sh

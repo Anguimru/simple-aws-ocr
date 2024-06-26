@@ -1,0 +1,14 @@
+{
+  "name": "simple-aws-ocr",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Andre Guimerans Rua",
+  "description": "Uploads an image to a S3 Bucket and performs OCR detection using Rekognition",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1649.0"
+  }
+}
